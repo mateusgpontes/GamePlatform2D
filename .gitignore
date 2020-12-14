@@ -5,3 +5,11 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+.vscode/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
